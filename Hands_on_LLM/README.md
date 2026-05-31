@@ -77,8 +77,8 @@
 
 - BGE-M3
 - FAISS
-- RAG
-- Local LLM (Gemma4)
+- Reranker
+- LangChain
 - LangGraph
+- Local LLM (Gemma4)
 ---
-
