@@ -3,7 +3,7 @@
 - LLM을 활용한 실전 AI 애플리케이션 개발
 - 핸즈온 LLM
 - RAG 마스터: 랭체인으로 완성하는 LLM 서비스
-- 요즘 AI 에이전트 개발, LLM RAG ADK MCP LangChain A2A LangGraph
+- 요즘 AI 에이전트 개발
 - AI 에이전트 개발 완벽 입문
 - AI 에이전트 엔지니어링
   
